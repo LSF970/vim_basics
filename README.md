@@ -98,7 +98,7 @@ v # then use arrow keys or h + l to highlight text
 **To copy (yank mode):**
 
 ```
-y # (with text hgihlighted)
+y # (with text highlighted)
 ```
 
 **To make a new line:**
